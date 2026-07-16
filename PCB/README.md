@@ -1,11 +1,19 @@
 # zHeat PCB
 A dedicated PCB using ESP32C6 µC as been designed to optimize reliability and costs.
 
-![Iso view of zTank PCB](<screenshot/zTankV1_1 iso.png>)
+![Iso view of zTank PCB](<screenshot/zHeat iso.png>)
+
+The board connect to:
+
+* Homebus to connect Daikin Heat Pump via P1P2 connector
+
+* 12V serial bus to connect on heating circuit controller
+
+* 4-20mA port to connect to pressure sensor on the circuit
 
 ## Tools
 
- The design of the PCB has been done with KiCad 9.0. Particular footprint and 3D STEP file are included in the `/footprints` folder for sake of maintenance
+ The design of the PCB has been done with KiCad 10.0. Particular footprint and 3D STEP file are included in the `/library` folder for sake of maintenance
 
 ## Design
 

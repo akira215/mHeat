@@ -1,5 +1,5 @@
-# zTank
-Tank survey, embedded sofware on dedicated PCB using ESP32C6 µC
+# mHeat
+Monitoring HomeBus device and Modbus, embedded sofware on dedicated PCB using ESP32C6 µC
 
 # Description
 
